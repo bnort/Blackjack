@@ -1,0 +1,6 @@
+tony, 100, 
+moe, 650, 
+steve, 1400, 
+geoff, 475, 
+herbert, 400, 
+jim, 300, 
